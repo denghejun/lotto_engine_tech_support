@@ -17,5 +17,5 @@ The Software respects and protects the personal privacy rights of all users of t
 
 (b) This application does not allow any third party to collect, edit, sell or disseminate your personal information for free by any means. If any user of the application platform engages in the above activities, once discovered, the application has the right to immediately terminate the service agreement with the user.
 
-3. We have the right of final interpretation of the above terms.
+We have the right of final interpretation of the above terms.
 
